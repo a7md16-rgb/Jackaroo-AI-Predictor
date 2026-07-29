@@ -1,4 +1,3 @@
-# Jackaroo-AI-Predictor
 # Jackaroo-AI Predictor
 
 Final project for the Building AI course
